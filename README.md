@@ -2,6 +2,8 @@
 
 Turn a story idea into a short-form AI video: script, visual prompts, voiceover, synced timeline, and Remotion render.
 
+[![Sponsor](https://img.shields.io/badge/Sponsor-GitHub%20Sponsors-ea4aaa?logo=github)](https://github.com/sponsors/232896899-hash)
+
 Built for creators who publish vertical videos to TikTok, Instagram Reels, YouTube Shorts, and Chinese short-video platforms.
 
 ## What works today
@@ -73,3 +75,7 @@ MIT for this project code. Third-party libraries and assets retain their own lic
 ## Support the project
 
 If this saves you time, star the repository and share what you built. Paid packs and support links will be added after the first public release.
+
+## Support the project
+
+Sponsor development on [GitHub Sponsors](https://github.com/sponsors/232896899-hash), or contact the maintainer for the Creator Pro Pack.

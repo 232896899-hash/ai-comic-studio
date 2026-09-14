@@ -2,6 +2,14 @@
   "name": "ai-comic-studio",
   "version": "0.1.0",
   "description": "Generate short-form AI story videos with Remotion, scripts, images, voiceover, and timeline sync.",
+  "keywords": [
+    "ai-video",
+    "ai-comic",
+    "remotion",
+    "short-video",
+    "text-to-video",
+    "story-generator"
+  ],
   "repository": {
     "type": "git",
     "url": "https://github.com/REPLACE_WITH_OWNER/ai-comic-studio.git"
