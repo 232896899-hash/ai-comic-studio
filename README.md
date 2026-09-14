@@ -55,6 +55,10 @@ The repository does not promise any platform income. Results depend on content q
 The first Pro Pack draft and a static sales page are in [`pro-pack/`](pro-pack/)
 and [`sales/`](sales/). Replace `PAYMENT_URL` with the actual checkout link before publishing.
 
+For China-based buyers, the first sales channel is an honest digital-product listing
+on Xianyu; the listing copy is prepared in [`sales/闲鱼上架文案.md`](sales/闲鱼上架文案.md).
+The repository also includes a GitHub Sponsors configuration in `.github/FUNDING.yml`.
+
 ## Development
 
 ```bash
