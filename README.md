@@ -52,6 +52,9 @@ The repository does not promise any platform income. Results depend on content q
 - [ ] Batch generation command
 - [ ] Pro Pack landing page and license
 
+The first Pro Pack draft and a static sales page are in [`pro-pack/`](pro-pack/)
+and [`sales/`](sales/). Replace `PAYMENT_URL` with the actual checkout link before publishing.
+
 ## Development
 
 ```bash
