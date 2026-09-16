@@ -61,6 +61,8 @@ For China-based buyers, the first sales channel is an honest digital-product lis
 on Xianyu; the listing copy is prepared in [`sales/闲鱼上架文案.md`](sales/闲鱼上架文案.md).
 The repository also includes a GitHub Sponsors configuration in `.github/FUNDING.yml`.
 
+The standalone sales page is deployed from `sales/` by [GitHub Pages](.github/workflows/deploy-pages.yml).
+
 ## Development
 
 ```bash
