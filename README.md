@@ -55,7 +55,7 @@ The repository does not promise any platform income. Results depend on content q
 - [ ] Pro Pack landing page and license
 
 The first Pro Pack draft and a static sales page are in [`pro-pack/`](pro-pack/)
-and [`sales/`](sales/). Replace `PAYMENT_URL` with the actual checkout link before publishing.
+and [`sales/`](sales/). Buyers can contact the maintainer through the WeChat ID shown on the sales page.
 
 For China-based buyers, the first sales channel is an honest digital-product listing
 on Xianyu; the listing copy is prepared in [`sales/闲鱼上架文案.md`](sales/闲鱼上架文案.md).
